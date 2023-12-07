@@ -1,5 +1,5 @@
 // Progress Bar Component
-import styles from "./Bar.module.css";
+import styles from "./bar.module.css";
 function Bar() {
   return (
     <>
