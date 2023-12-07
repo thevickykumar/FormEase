@@ -1,0 +1,17 @@
+.consent {
+  display: inline-block;
+}
+
+.form {
+  padding: 10px 50px 50px 50px;
+}
+
+@media (max-width: 576px) {
+  .form {
+    padding: 10px 10px 50px 10px;
+  }
+}
+
+/* .tribunal {
+  display: none;
+} */
